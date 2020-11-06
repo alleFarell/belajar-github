@@ -10,3 +10,6 @@ print("Umur saya", x)
 
 # komenin aja
 #  Yeeekan
+
+
+# sambil di edit
