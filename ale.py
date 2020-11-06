@@ -16,4 +16,7 @@ print("Umur saya", x)
 
 #  Saya mengisi dengan sadar
 
+
 # Isi barengan
+
+# Isi dari github
