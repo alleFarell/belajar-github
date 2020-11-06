@@ -7,3 +7,6 @@ print(x)
 #  Pake fetch
 
 print("Umur saya", x)
+
+# komenin aja
+#  Yeeekan
