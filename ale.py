@@ -13,3 +13,5 @@ print("Umur saya", x)
 
 
 # sambil di edit
+
+#  Saya mengisi dengan sadar
